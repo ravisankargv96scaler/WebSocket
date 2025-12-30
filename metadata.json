@@ -1,0 +1,5 @@
+{
+  "name": "21b-WebSocket",
+  "description": "An interactive educational platform explaining the core concepts, mechanics, and implementation of WebSockets compared to traditional HTTP.",
+  "requestFramePermissions": []
+}
